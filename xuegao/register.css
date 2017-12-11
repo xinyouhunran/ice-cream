@@ -1,0 +1,9 @@
+.fo{height:370px;border:1px solid gray;padding:20px 0;}
+.fo form{width:1000px;margin:0 auto;text-align:center;}
+.fo form div{margin-top: 10px;}
+.fo form label{margin-right:20px;color:red;width:80px;display: inline-block;}
+.fo form .inp{width:400px;height:30px;}
+.fo form span{color: red;margin-left: 15px;width:200px;display: inline-block;}
+.fo form .passbtn{width:143px;height: 30px;border: none;background-color: #fff;}
+.fo form #regis{width:210px;height:30px;background-color: #fff;color:red;}
+.fo form .strength{width:810px;}

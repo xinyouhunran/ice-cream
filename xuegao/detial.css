@@ -1,0 +1,8 @@
+.section .section-m{float:left;width:800px;position: relative}
+.section .section-m .section-m-l{float: left;width:380px;height:380px;position: relative;}
+.section .section-m .section-m-l img{width:380px;height:380px;}
+.section .section-m .section-m-l #filter{display:none;width:190px;height:190px;background-color: rgba(0,0,0,0.5);position: absolute;top:0;}
+.section .section-m .section-m-r{float: right;}
+.section .section-m .section-m-r #shopbtn{cursor: pointer;}
+.section .section-m .maxpic{display:none;position: absolute;top:0;left:400px;width:380px;height:380px;overflow: hidden;}
+.section .section-m .maxpic img{width:720px;height:720px;position: absolute;}
